@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/(?<target>.*)",
+      "dest": "/api/index?route=$target"
+    }
+  ]
+}
+
