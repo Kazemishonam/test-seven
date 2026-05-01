@@ -1,0 +1,11 @@
+{
+  "name": "v-internal-mod-0x1",
+  "version": "0.0.1",
+  "description": "internal_edge_runtime_module",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "echo 'building...'"
+  }
+}
+
